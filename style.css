@@ -238,7 +238,7 @@ transform: .4s linear;
 {
     height: 10rem;
 }
-.header .shopping-cart .box .fa-tarsh
+.header .shopping-cart .box .fa-trash
 {
     font-size: 4rem;
     position: absolute;
@@ -250,7 +250,7 @@ transform: .4s linear;
 
 }
 
-.header .shopping-cart .box .fa-tarsh:hover
+.header .shopping-cart .box .fa-trash:hover
 {
     color: var(--green);
     
