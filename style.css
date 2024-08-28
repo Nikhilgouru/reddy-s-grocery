@@ -681,7 +681,7 @@ height: 15rem;
     padding-right: .5rem;
 }
 
-.blogs .box-container .box .content.icons h3 
+.blogs .box-container .box .content h3 
 {
     line-height: 1.8;
     color: var(--black);
